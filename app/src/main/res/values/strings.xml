@@ -2,5 +2,12 @@
     <string name="app_name">AMemo</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="titleTextEn">Title:</string>
+    <string name="dateTextEn">Date:</string>
+    <string name="datePlaceholderEn">-</string>
+    <string name="noteTextEn">Your note:</string>
+    <string name="saveNoteButtonTextEn">Save note</string>
+    <string name="title_activity_list_notes">AMemo</string>
     <string name="action_settings">Settings</string>
+    <string name="addNoteOption">Add note</string>
 </resources>
